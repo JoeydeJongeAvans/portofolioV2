@@ -6,7 +6,6 @@ type project = {
     desc: string;
     blurHash: string;
     technologies: string[];
-    tech: string[];
   };
 
   type article = {
