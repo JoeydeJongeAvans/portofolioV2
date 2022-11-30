@@ -5,7 +5,7 @@ export const projectsList = [
     blurHash: 'L4ADc400P*Zi4Tu1y;Qo00pH#YXl',
     site: 'http://lastone-massage.nl/',
     description:
-      'LaStone Massage is een wordpress website namens Vedr, waarbij de wens van Ingrid was om website realiseren waarbij klanten direct duidelijkheid krijgen.',
+      'Wordpress site namens Vedr, LaStone Massage wilde een frisse website waarbij de huisstijl van de social media naadloos moest aansluiten bij de website.',
     techStack: ['Wordpress', 'Figma', 'SEO']
   },
   {

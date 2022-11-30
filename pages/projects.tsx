@@ -14,7 +14,7 @@ import { ProjectProps } from 'interfaces/interface'
 
 const title = 'Projects 📚'
 const subtitle =
-  "A selection of projects I've worked on, during my career as a software developer."
+  "Aantal projecten waar ik aan heb gewerkt"
 
 const TURQUOISE = '#06b6d4'
 
@@ -27,7 +27,7 @@ const Projects: NextPage<ProjectProps> = (props) => {
         <PageSlideFade>
           <VStack align="start">
             <Header underlineColor={TURQUOISE} mt={0} mb={2}>
-              Projects
+              Projecten
             </Header>
             <Text
               color={useColorModeValue('gray.500', 'gray.200')}
