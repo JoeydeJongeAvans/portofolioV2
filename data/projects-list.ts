@@ -59,6 +59,16 @@ export const projectsList = [
     link: "https://www.yisual.com/",
     desc: `Stage opdracht vanuit Yisual voor leerjaar 3. De tool moet verschillende handelingen doen voor een PDF via AWS Lambda. De tool is gebouwd met typescript en LaTex. De tool draait zelf in Linux omgeving. `,
     technologies: ["docker", "typescript", "AWS", "LaTex"]
+  },
+  {
+    id: 7,
+    title: "Bestel broodje site | Yisual",
+    // logo: gosave,
+    logo: '/assets/images/projects/bread.png',
+    blurHash: "L09sWSxdH;s?%6axWAfk00V?%jax",
+    link: "https://github.com/JoeydeJongeAvans/YisualBroodjesBestel",
+    desc: `Extra opdracht vanuit Yisual om een broodjes bestel site te bouwen die elke vrijdag gebruikt kan worden door het personeel. `,
+    technologies: ["Vue", "firebase"]
   }
 ];
 
