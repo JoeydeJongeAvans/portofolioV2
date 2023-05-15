@@ -80,7 +80,7 @@ export const skillsArray = [
   },
   {
     name: 'Typescript',
-    description: 'Web development',
+    description: 'Web development, Api development',
     link: 'https://www.typescriptlang.org/',
     type: 'development',
     image: '/assets/images/skills/typescript.png'

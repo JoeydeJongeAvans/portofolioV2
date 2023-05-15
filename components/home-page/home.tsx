@@ -139,7 +139,7 @@ const Home: React.FC<BlogPostProps> = (props) => {
             </Box>{" "}
             en ik ben{" "}
             <Box as="span" whiteSpace="nowrap">
-             23 jaar oud
+             24 jaar oud
             </Box>{" "}
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" mt={5} textAlign="left">
