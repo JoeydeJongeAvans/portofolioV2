@@ -1,5 +1,13 @@
 export const companies = [
   {
+    title: "CM.com",
+    alt: "CM image",
+    role: "Implemtation Specialist",
+    skills: ["E-commerce", "api", "marketing", "communication", "presenting"],
+    period: "2024 - Present",
+    logo: "/assets/images/logos/CM.png"
+  },
+  {
     title: "Vedr",
     alt: "Vedr image",
     role: "Art director",
