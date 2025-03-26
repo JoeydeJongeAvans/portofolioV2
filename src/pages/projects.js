@@ -266,7 +266,7 @@ export default function Projects() {
               <Project
                 type="Development"
                 tools="Python"
-                title="Verkoopanalysel"
+                title="sales analysis"
                 img={proj1}
                 date="2023"
                 link="https://github.com/JoeydeJongeAvans/Verkoopanalyse"
