@@ -1,8 +1,8 @@
 {
-  "name": "NexTemp",
+  "name": "joeydejongecode",
   "private": true,
   "version": "1.0.0",
-  "author": "Travis Lord <hi@travislord.xyz>",
+  "author": "Joey de Jonge",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
