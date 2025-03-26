@@ -8,6 +8,8 @@ import { useRef } from "react";
 import { HireMe2 } from "@/components/HireMe2";
 
 import proj1 from "../../public/images/projects/clay-theme.png";
+import proj2 from "../../public/images/projects/SeeChangeV3.png";
+import proj3 from "../../public/images/projects/diagram.png";
 import loading from "../../public/images/articles/GTA6-VICE.gif";
 
 import TransitionEffect from "@/components/TransitionEffect";
@@ -254,7 +256,7 @@ export default function Projects() {
                 tools="JavaScript"
                 title="SeeChange"
                 summary="The SeeChange server functions as an intermediary for streaming audio, video, and data messages via the RTMP protocol. These are then converted to the FLV protocol for forwarding to the client side. The RTMP packets are sent from the Android app."
-                img={proj1}
+                img={proj2}
                 date="2023"
                 link="https://github.com/The-Circle-Avans/SeeChange"
                 github="https://github.com/The-Circle-Avans/SeeChange"
@@ -263,12 +265,12 @@ export default function Projects() {
             <div className="col-span-6 sm:col-span-12">
               <Project
                 type="Development"
-                tools="HTML | CSS | JavaScript"
-                title="PDFMagick | Yisual"
+                tools="Python"
+                title="Verkoopanalysel"
                 img={proj1}
                 date="2023"
-                link="https://www.yisual.com/"
-                github="https://www.yisual.com/"
+                link="https://github.com/JoeydeJongeAvans/Verkoopanalyse"
+                github="https://github.com/JoeydeJongeAvans/Verkoopanalyse"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
@@ -276,7 +278,7 @@ export default function Projects() {
                 type="Development"
                 tools="HTML | CSS | JavaScript"
                 title="PharmaPartners API"
-                img={proj1}
+                img={proj3}
                 date="2021"
                 link="https://github.com/BPouw/pharma-partners-api"
                 github="https://github.com/BPouw/pharma-partners-api"
